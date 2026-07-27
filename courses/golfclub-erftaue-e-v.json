@@ -5492,94 +5492,94 @@
   ],
   "points": [
     {
+      "ref": 2,
+      "kind": "tree",
       "point": [
         51.02522008108065,
         6.567453193522582
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 2,
+      "kind": "tree",
       "point": [
         51.024921739504535,
         6.567627680647408
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 2,
+      "kind": "bush",
       "point": [
         51.02384423747361,
         6.567475287169751
       ],
-      "kind": "bush",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 2,
+      "kind": "bush",
       "point": [
         51.023739714756466,
         6.56751429614856
       ],
-      "kind": "bush",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 2,
+      "kind": "bush",
       "point": [
         51.02361316159527,
         6.567496791854323
       ],
-      "kind": "bush",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 2,
+      "kind": "tree",
       "point": [
         51.02299969895364,
         6.56776882752738
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 2
+      "custom": true
     },
     {
+      "ref": 9,
+      "kind": "tree",
       "point": [
         51.029653224134,
         6.569086743241429
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 9
+      "custom": true
     },
     {
+      "ref": 9,
+      "kind": "tree",
       "point": [
         51.02969022879043,
         6.568930362695129
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 9
+      "custom": true
     },
     {
+      "ref": 9,
+      "kind": "tree",
       "point": [
         51.029307759935875,
         6.569026158264109
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 9
+      "custom": true
     },
     {
+      "ref": 9,
+      "kind": "tree",
       "point": [
         51.03020896339731,
         6.569478124559549
       ],
-      "kind": "tree",
-      "custom": true,
-      "ref": 9
+      "custom": true
     }
   ],
   "bunkers": [
