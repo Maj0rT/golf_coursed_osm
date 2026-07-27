@@ -1566,7 +1566,8 @@
         ]
       ],
       "colors": [
-        "green"
+        "green",
+        "magenta"
       ],
       "custom": true
     },
@@ -1595,7 +1596,8 @@
         ]
       ],
       "colors": [
-        "green"
+        "green",
+        "magenta"
       ],
       "custom": true
     },
@@ -5607,6 +5609,33 @@
       "kind": "tree",
       "custom": true,
       "ref": 4
+    },
+    {
+      "point": [
+        51.025863980094016,
+        6.574478149040481
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 6
+    },
+    {
+      "point": [
+        51.025877108663515,
+        6.574402925933052
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 6
+    },
+    {
+      "point": [
+        51.02564083334705,
+        6.574593450654946
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 6
     }
   ],
   "bunkers": [
