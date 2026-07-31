@@ -1364,7 +1364,8 @@
         ]
       ],
       "colors": [
-        "orange"
+        "orange",
+        "magenta"
       ],
       "custom": true
     },
@@ -1422,7 +1423,8 @@
         ]
       ],
       "colors": [
-        "green"
+        "green",
+        "magenta"
       ],
       "custom": true
     },
@@ -1509,7 +1511,8 @@
         ]
       ],
       "colors": [
-        "orange"
+        "orange",
+        "magenta"
       ],
       "custom": true
     },
