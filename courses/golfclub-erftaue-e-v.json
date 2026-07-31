@@ -1453,7 +1453,8 @@
         ]
       ],
       "colors": [
-        "orange"
+        "orange",
+        "magenta"
       ],
       "custom": true
     },
