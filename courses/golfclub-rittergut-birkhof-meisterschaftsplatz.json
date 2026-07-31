@@ -5559,7 +5559,10 @@
         ]
       ],
       "custom": true,
-      "ref": 2
+      "ref": 2,
+      "colors": [
+        "red"
+      ]
     }
   ],
   "holes": [
