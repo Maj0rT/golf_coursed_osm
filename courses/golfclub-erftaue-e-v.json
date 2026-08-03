@@ -5991,6 +5991,33 @@
       "kind": "tree",
       "custom": true,
       "ref": 8
+    },
+    {
+      "point": [
+        51.02556138255466,
+        6.569119044264676
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 8
+    },
+    {
+      "point": [
+        51.025389304286456,
+        6.569172653967154
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 8
+    },
+    {
+      "point": [
+        51.02519866781211,
+        6.569220902699404
+      ],
+      "kind": "tree",
+      "custom": true,
+      "ref": 8
     }
   ],
   "bunkers": [
