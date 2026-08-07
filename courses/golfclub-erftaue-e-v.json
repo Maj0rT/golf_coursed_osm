@@ -1890,7 +1890,8 @@
       "custom": true,
       "ref": 14,
       "colors": [
-        "green"
+        "green",
+        "magenta"
       ]
     },
     {
