@@ -1326,7 +1326,8 @@
         ]
       ],
       "colors": [
-        "green"
+        "green",
+        "magenta"
       ],
       "custom": true
     },
